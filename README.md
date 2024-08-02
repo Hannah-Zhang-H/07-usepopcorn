@@ -1,3 +1,7 @@
+### it also includes a starRating component(API)
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/0a2b8621-1d5f-448f-bc99-1a266e59faae">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -36,8 +40,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 
-### it also includes a starRating component(API)
-<img width="855" alt="image" src="https://github.com/user-attachments/assets/0a2b8621-1d5f-448f-bc99-1a266e59faae">
 
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
